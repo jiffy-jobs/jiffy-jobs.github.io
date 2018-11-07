@@ -7,7 +7,7 @@
 
 # About Jiffy Jobs
 
-The Jiffy Jobs web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
+The UH Manoa students in engineering and computer science are experiencing a major lack of knowledge regarding the jobs or internships that are available and wanting to hire them in or out of college. The only places they can find jobs pertinent to their respective fields is by attending a career fair day or working in one of the limited STEM positions available on campus through the SECE website provided by UH Manoa. The main purpose is to help the engineering and computer science students have more direct line of communication with companies that want to hire them. The students submit their interests which helps match them to employers or vice-versa.
 
 *~Jobs in a jiffy!*
 
