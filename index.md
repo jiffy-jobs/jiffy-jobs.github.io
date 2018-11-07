@@ -1,7 +1,7 @@
 # Table of contents
 
-* [About Jiffy Jobs] (#About-Jiffy-Jobs)
-* [Development History] (#Development-History)
+* [About Jiffy Jobs] (#about-jiffy-jobs)
+* [Development History] (#development-distory)
 
 # About Jiffy Jobs
 
