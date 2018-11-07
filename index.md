@@ -19,3 +19,5 @@ The Jiffy Jobs web application provides a new way for local and non-local compan
 Some content about how we've developed dwddjajnawdjkwandjkwndjkwndkjand
 
 # Goals
+* Create a clean and modern landing page. Below is an example of a clean an modern landing page that we may base our design off of:
+![](images/landing-example.jpg)
