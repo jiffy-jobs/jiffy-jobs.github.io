@@ -11,12 +11,6 @@
 
 *~Jobs in a jiffy!*
 
-![](images/INSERTMARKUPHERE.png)
-
-![](images/INSERTMARKUPHERE.png)
-# Development History
-
-
 # Goals
 * Create a clean and modern landing page. Below is similar to what we had in mind for our landing page:
 
@@ -29,3 +23,6 @@
 * Create an admin profile page to manage what companies appear and filter profiles.
 * Feed for company announcements and other important information.
 * Implement a rating/point system: Students will have a point display in their profile. Students can earn points through accepting internships. Points are distributed by companies through their profiles. Students will have the option to leave starred reviews for a company.
+
+# Development History
+
