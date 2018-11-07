@@ -16,7 +16,6 @@
 ![](images/INSERTMARKUPHERE.png)
 # Development History
 
-Some content about how we've developed dwddjajnawdjkwandjkwndjkwndkjand
 
 # Goals
 * Create a clean and modern landing page. Below is similar to what we had in mind for our landing page:
