@@ -51,7 +51,7 @@ I am currently a sophmore majoring in Computer Science at the University of Hawa
 
 -Alexander Wong:
 
--Joel Sikkink:
+-Joel Sikkink: I am an IT support specialist at ResNet for the Student Housing at Manoa. I bring moderate knowledge of databasing to the team however I am more familiar with SQL rather than MongoDB and I would prefer PHP over Simple Schema and React. This project will hopefully improve my understanding of good website and user based design as I will be creating apps for use by my department at work by next year but I will be using SQL and PHP over the solutions used in this class.  
 
 
 # Goals
@@ -81,9 +81,14 @@ I am currently a sophmore majoring in Computer Science at the University of Hawa
 * Implement a rating/point system: Students will have a point display in their profile. Students can earn points through accepting internships. Points are distributed by companies through their profiles. Students will have the option to leave starred reviews for a company.
 
 # Development History
+
 -Landing page created
+
 -Login page functional
+
 -Signup page functional
+
 -Menu bar working
+
 -Sidebar working
 
