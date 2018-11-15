@@ -1,6 +1,6 @@
 
 # Project Link
-<a href="https://http://jiffyjobs.meteorapp.com/">Jiffy Jobs</a>
+<a href="https://jiffyjobs.meteorapp.com/">Jiffy Jobs</a>
 
 # Table of contents
 
@@ -18,10 +18,38 @@
 *~Jobs in a jiffy!*
 
 # User Guide
-
+   Currently there are minimal pages to go through. We have the landing page which has two buttons for logging in or signing up. The menu bar at the top is currently non-functional as well as the sidebar however they link to a 404 page wherever necessary. You are able to log in with an account if it has been added and signing up is fully functional as well as differentiates between company and student users.
+   
 # Developer Guide
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+The application should appear at [http://localhost:3000](http://localhost:3000).  
 
 # About Us
+The team:
+
+-Cade Yamamoto:
+
+-Levy-Jean Matsuda:
+
+-Alexander Wong:
+
+-Joel Sikkink:
+
 
 # Goals
 * Create a clean and modern landing page. Below is similar to what we had in mind for our landing page:
@@ -42,7 +70,7 @@
  
  ![Company homepage example](images/companypage.jpg)
  
-* Create a search page that allows students to search for opporunities and find company profiles.
+* Create a search page that allows students to search for opportunities and find company profiles.
 * Create an admin profile page to manage what companies appear and filter profiles.
 
 ![Admin page example](images/admin.jpg)
@@ -50,4 +78,9 @@
 * Implement a rating/point system: Students will have a point display in their profile. Students can earn points through accepting internships. Points are distributed by companies through their profiles. Students will have the option to leave starred reviews for a company.
 
 # Development History
+-Landing page created
+-Login page functional
+-Signup page functional
+-Menu bar working
+-Sidebar working
 
