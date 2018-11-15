@@ -23,7 +23,7 @@
 # Developer Guide
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
+Second, [download a copy of Jiffy Jobs](https://github.com/jiffy-jobs/jiffy-jobs/archive/master.zip), or clone it using git.
   
 Third, cd into the app/ directory and install libraries with:
 
@@ -38,23 +38,6 @@ $ meteor npm run start
 ```
 
 The application should appear at [http://localhost:3000](http://localhost:3000).  
-
-# About Us
-The team:
-
--Cade Yamamoto
-Hello! I am currently a sophomore majoring in computer science at the University of Hawaii at Manoa. Though I intend on pursing a career in cyber security, I enjoy designing aesthetically pleasing web pages. I have adequate knowledge of Semantic UI and React JS and I wish to further my web design skills. My main focus in this project is to implement a modern design with ease-of-use being the primary design aspect of the site. I hope you will enjoy our site!
-
--Levy Matsuda
-
-<img src="images/lmimage.jpg" width="200" height="200" />
-
-I am currently a sophmore majoring in Computer Science at the University of Hawaii at Manoa. I am considering pursuing a career in web development or computer programming. I have not had prior coding experience. My goal is to become more familiar with React so that eventually, using React becomes more intuitive. I also aim to understand the process behind creating a website better instead of just memorizing code.
-
--Alexander Wong:
-
--Joel Sikkink: I am an IT support specialist at ResNet for the Student Housing at Manoa. I bring moderate knowledge of databasing to the team however I am more familiar with SQL rather than MongoDB and I would prefer PHP over Simple Schema and React. This project will hopefully improve my understanding of good website and user based design as I will be creating apps for use by my department at work by next year but I will be using SQL and PHP over the solutions used in this class.  
-
 
 # Goals
 * Create a clean and modern landing page. Below is similar to what we had in mind for our landing page:
@@ -93,4 +76,20 @@ I am currently a sophmore majoring in Computer Science at the University of Hawa
 -Menu bar working
 
 -Sidebar working
+
+# About Us
+The team:
+
+-Cade Yamamoto
+Hello! I am currently a sophomore majoring in computer science at the University of Hawaii at Manoa. Though I intend on pursing a career in cyber security, I enjoy designing aesthetically pleasing web pages. I have adequate knowledge of Semantic UI and React JS and I wish to further my web design skills. My main focus in this project is to implement a modern design with ease-of-use being the primary design aspect of the site. I hope you will enjoy our site!
+
+-Levy Matsuda
+
+<img src="images/lmimage.jpg" width="200" height="200" />
+
+I am currently a sophmore majoring in Computer Science at the University of Hawaii at Manoa. I am considering pursuing a career in web development or computer programming. I have not had prior coding experience. My goal is to become more familiar with React so that eventually, using React becomes more intuitive. I also aim to understand the process behind creating a website better instead of just memorizing code.
+
+-Alexander Wong:
+
+-Joel Sikkink: I am an IT support specialist at ResNet for the Student Housing at Manoa. I bring moderate knowledge of databasing to the team however I am more familiar with SQL rather than MongoDB and I would prefer PHP over Simple Schema and React. This project will hopefully improve my understanding of good website and user based design as I will be creating apps for use by my department at work by next year but I will be using SQL and PHP over the solutions used in this class.  
 
