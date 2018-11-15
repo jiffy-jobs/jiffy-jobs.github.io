@@ -48,7 +48,7 @@ The team:
 
 -Alexander Wong:
 
--Joel Sikkink:
+-Joel Sikkink: I am an IT support specialist at ResNet for the Student Housing at Manoa. I bring moderate knowledge of databasing to the team however I am more familiar with SQL rather than MongoDB and I would prefer PHP over Simple Schema and React. This project will hopefully improve my understanding of good website and user based design as I will be creating apps for use by my department at work by next year but I will be using SQL and PHP over the solutions used in this class.  
 
 
 # Goals
