@@ -47,7 +47,7 @@ Hello! I am currently a sophomore majoring in computer science at the University
 
 -Levy Matsuda
 
-![lm headshot](images/lmimage.jpg =100x100)
+<img src="images/lmimage.jpg" width="200" height="200" />
 
 I am currently a sophmore majoring in Computer Science at the University of Hawaii at Manoa. I am considering pursuing a career in web development or computer programming. I have not had prior coding experience. My goal is to become more familiar with React so that eventually, using React becomes more intuitive. I also aim to understand the process behind creating a website better instead of just memorizing code.
 
