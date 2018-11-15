@@ -81,6 +81,9 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 The team:
 
 -Cade Yamamoto
+
+<img src="images/cyprofile.jpg" width="200" height="250" />
+
 Hello! I am currently a sophomore majoring in computer science at the University of Hawaii at Manoa. Though I intend on pursing a career in cyber security, I enjoy designing aesthetically pleasing web pages. I have adequate knowledge of Semantic UI and React JS and I wish to further my web design skills. My main focus in this project is to implement a modern design with ease-of-use being the primary design aspect of the site. I hope you will enjoy our site!
 
 -Levy Matsuda
