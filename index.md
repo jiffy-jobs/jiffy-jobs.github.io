@@ -102,6 +102,7 @@ Hello! I am currently a sophomore majoring in computer science at the University
 I am currently a sophmore majoring in Computer Science at the University of Hawaii at Manoa. I am considering pursuing a career in web development or computer programming. I have not had prior coding experience. My goal is to become more familiar with React so that eventually, using React becomes more intuitive. I also aim to understand the process behind creating a website better instead of just memorizing code.
 
 <h3> Alexander Wong </h3>
+I am currently a Junior majoring in computer science. I am not sure what field I want to go into yet but programming either a website or application sounds interesting to me. I like to design so hopefully through this project I am able to improve my skills in both layouts and coding. 
 
 <h3> Joel Sikkink </h3> 
 
