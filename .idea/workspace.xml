@@ -33,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1249" />
+          <entry key="md" value="1280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1249" />
+          <entry key="Markdown" value="1280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -51,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="467">
-                <caret line="49" column="416" selection-start-line="49" selection-start-column="416" selection-end-line="49" selection-end-column="416" />
+              <first_editor relative-caret-position="206">
+                <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,9 +84,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="510" />
+    <option name="x" value="484" />
     <option name="y" value="23" />
-    <option name="width" value="930" />
+    <option name="width" value="956" />
     <option name="height" value="685" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -198,8 +198,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="467">
-            <caret line="49" column="416" selection-start-line="49" selection-start-column="416" selection-end-line="49" selection-end-column="416" />
+          <first_editor relative-caret-position="206">
+            <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
