@@ -66,16 +66,23 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 * Implement a rating/point system: Students will have a point display in their profile. Students can earn points through accepting internships. Points are distributed by companies through their profiles. Students will have the option to leave starred reviews for a company.
 
 # Development History
+<h2> Milestone 1 </h2>
+<h3> Landing page created </h3>
 
--Landing page created
+* Menu bar working
+* Dropdown working
 
--Login page functional
+<img src="images/landing.PNG" width="650" height="400" />
 
--Signup page functional
+<h3> Login page functional </h3>
+<img src="images/login.PNG" width="650" height="400" />
 
--Menu bar working
+<h3> Signup page functional </h3>
+<img src="images/register.PNG" width="650" height="400" />
 
--Sidebar working
+<h2> Milestone 2 </h2>
+
+* In progress. Mockups have been created for pages and issues have been assigned.
 
 # About Us
 The team:
