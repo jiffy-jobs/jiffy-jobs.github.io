@@ -78,9 +78,14 @@ The team:
 * Implement a rating/point system: Students will have a point display in their profile. Students can earn points through accepting internships. Points are distributed by companies through their profiles. Students will have the option to leave starred reviews for a company.
 
 # Development History
+
 -Landing page created
+
 -Login page functional
+
 -Signup page functional
+
 -Menu bar working
+
 -Sidebar working
 
