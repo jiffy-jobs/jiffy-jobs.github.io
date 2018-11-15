@@ -46,6 +46,9 @@ The team:
 
 -Levy-Jean Matsuda:
 
+![lm headshot](images/lmimage.jpg)
+I am currently a sophmore majoring in Computer Science at the University of Hawaii at Manoa. I am considering pursuing a career in web development or computer programming. 
+
 -Alexander Wong:
 
 -Joel Sikkink:
