@@ -80,19 +80,21 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 # About Us
 The team:
 
--Cade Yamamoto
+<h3> Cade Yamamoto </h3>
 
 <img src="images/cyprofile.jpg" width="200" height="250" />
 
 Hello! I am currently a sophomore majoring in computer science at the University of Hawaii at Manoa. Though I intend on pursing a career in cyber security, I enjoy designing aesthetically pleasing web pages. I have adequate knowledge of Semantic UI and React JS and I wish to further my web design skills. My main focus in this project is to implement a modern design with ease-of-use being the primary design aspect of the site. I hope you will enjoy our site!
 
--Levy Matsuda
+<h3> Levy Matsuda </h3>
 
 <img src="images/lmimage.jpg" width="200" height="200" />
 
 I am currently a sophmore majoring in Computer Science at the University of Hawaii at Manoa. I am considering pursuing a career in web development or computer programming. I have not had prior coding experience. My goal is to become more familiar with React so that eventually, using React becomes more intuitive. I also aim to understand the process behind creating a website better instead of just memorizing code.
 
--Alexander Wong:
+<h3> Alexander Wong </h3>
 
--Joel Sikkink: I am an IT support specialist at ResNet for the Student Housing at Manoa. I bring moderate knowledge of databasing to the team however I am more familiar with SQL rather than MongoDB and I would prefer PHP over Simple Schema and React. This project will hopefully improve my understanding of good website and user based design as I will be creating apps for use by my department at work by next year but I will be using SQL and PHP over the solutions used in this class.  
+<h3> Joel Sikkink </h3> 
+
+I am an IT support specialist at ResNet for the Student Housing at Manoa. I bring moderate knowledge of databasing to the team however I am more familiar with SQL rather than MongoDB and I would prefer PHP over Simple Schema and React. This project will hopefully improve my understanding of good website and user based design as I will be creating apps for use by my department at work by next year but I will be using SQL and PHP over the solutions used in this class.  
 
