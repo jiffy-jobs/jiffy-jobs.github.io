@@ -72,13 +72,15 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 * Menu bar working
 * Dropdown working
 
-<img src="images/landing.PNG" width="650" height="400" />
+![Landing page](images/landing.PNG)
 
 <h3> Login page functional </h3>
-<img src="images/login.PNG" width="650" height="400" />
+
+![Login page](images/login.PNG)
 
 <h3> Signup page functional </h3>
-<img src="images/register.PNG" width="650" height="400" />
+
+![Signup page](images/register.PNG)
 
 <h2> Milestone 2 </h2>
 
