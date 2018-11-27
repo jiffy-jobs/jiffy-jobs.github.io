@@ -96,6 +96,10 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 ![Student Dashboard](images/StudentDashBoard.PNG)
 
 <h3> Student dashboard page functional </h3>
+
+![Example Profile](images/ExampleProfile.PNG)
+
+<h3> A basic example of what a profile will look like </h3>
 * In progress. Mockups have been created for pages and issues have been assigned.
 
 # About Us
