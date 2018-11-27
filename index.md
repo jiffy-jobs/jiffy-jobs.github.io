@@ -23,7 +23,7 @@
 *~Jobs in a jiffy!*
 
 # User Guide
-   Currently there are minimal pages to go through. We have the landing page which has two buttons for logging in or signing up. The menu bar at the top is currently non-functional as well as the sidebar however they link to a 404 page wherever necessary. You are able to log in with an account if it has been added and signing up is fully functional as well as differentiates between company and student users.
+   Currently there are minimal pages to go through. We have the landing page which has two buttons for logging in or signing up. The menu bar at the top is currently non-functional as well as the sidebar however they link to a 404 page wherever necessary. You are able to log in with an account if it has been added and signing up is fully functional as well as differentiates between company and student users. You can use the suitcase in the nav bar as a student to view companies or if you're a company you use it to view students. The profiles are done but we are struggling to add the data into the fields.
    
 # Developer Guide
 First, [install Meteor](https://www.meteor.com/install).
