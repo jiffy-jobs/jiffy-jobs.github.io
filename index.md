@@ -95,7 +95,7 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 
 ![Student Dashboard](images/StudentDashBoard.PNG)
 
-<h3> Company dashboard page functional </h3>
+<h3> Student dashboard page functional </h3>
 * In progress. Mockups have been created for pages and issues have been assigned.
 
 # About Us
