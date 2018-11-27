@@ -89,6 +89,13 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 
 <h2> Milestone 2 </h2>
 
+![Comapny Dashboard](images/CompanyDashBoard.PNG)
+
+<h3> Company dashboard page functional </h3>
+
+![Student Dashboard](images/StudentDashBoard.PNG)
+
+<h3> Company dashboard page functional </h3>
 * In progress. Mockups have been created for pages and issues have been assigned.
 
 # About Us
