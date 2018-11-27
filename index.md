@@ -1,7 +1,9 @@
 
 # Project Link
 <a href="https://jiffyjobs.meteorapp.com/">Jiffy Jobs</a>
-
+<a href="https://github.com/jiffy-jobs/jiffy-jobs/milestone/1">Milestone 1</a>
+<a href="https://github.com/jiffy-jobs/jiffy-jobs/milestone/2">Milestone 2</a>
+<a href="https://github.com/jiffy-jobs/jiffy-jobs/milestone/3">Milestone 3</a>
 # Table of contents
 
 * [About Jiffy Jobs](#about-jiffy-jobs)
