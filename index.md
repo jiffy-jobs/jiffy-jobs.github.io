@@ -101,10 +101,10 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 
 <h3> A basic example of what a student profile will look like </h3>
 
-
 ![Example Company Profile](images/JJCompanyProf.PNG)
 
 <h3> A basic example of what a company profile will look like </h3>
+
 * In progress. Mockups have been created for pages and issues have been assigned.
 
 # About Us
