@@ -33,7 +33,7 @@ Before logging in, the landing page will prompt the user to either log in or sig
 
 To log in, enter your email and password. If you don't have an account, sign up. 
 
-![Login Page](images/login.png)
+![Login Page](images/login.PNG)
 
 The sign up page will prompt you to enter your name, email, and password, and then asks you to choose a user type. Choose either whether you are a company or student. 
 
