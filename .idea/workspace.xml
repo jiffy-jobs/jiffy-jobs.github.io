@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7dc0ff2-47f5-4b95-9869-d8993bef3cd3" name="Default Changelist" comment="" />
+    <list default="true" id="e7dc0ff2-47f5-4b95-9869-d8993bef3cd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +38,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="5033" />
+          <entry key="md" value="5509" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="5033" />
+          <entry key="Markdown" value="5509" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -54,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+              <first_editor relative-caret-position="218">
+                <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,7 +92,7 @@
     <option name="x" value="554" />
     <option name="y" value="23" />
     <option name="width" value="886" />
-    <option name="height" value="803" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -169,7 +171,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="23" width="886" height="803" extended-state="0" />
+    <frame x="554" y="23" width="886" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15144509" />
@@ -204,8 +206,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <first_editor relative-caret-position="218">
+            <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
