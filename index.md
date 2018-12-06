@@ -11,10 +11,12 @@
 
 * [About Jiffy Jobs](#about-jiffy-jobs)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [About Us](#about-us)
 * [Goals](#goals)
 * [Development History](#development-history)
+
 
 # About Jiffy Jobs
 
@@ -23,7 +25,67 @@
 *~Jobs in a jiffy!*
 
 # User Guide
-   Currently there are minimal pages to go through. We have the landing page which has two buttons for logging in or signing up. The menu bar at the top is currently non-functional as well as the sidebar however they link to a 404 page wherever necessary. You are able to log in with an account if it has been added and signing up is fully functional as well as differentiates between company and student users. You can use the suitcase in the nav bar as a student to view companies or if you're a company you use it to view students. The profiles are done but we are struggling to add the data into the fields.
+
+Before logging in, the landing page will prompt the user to either log in or sign up. 
+
+![Logged out Landing](images/loggedouthome.png)
+
+
+To log in, enter your email and password. If you don't have an account, sign up. 
+
+![Login Page](images/login.png)
+
+The sign up page will prompt you to enter your name, email, and password, and then asks you to choose a user type. Choose either whether you are a company or student. 
+
+![Signing up](images/signup.png)
+
+After logging in, you will be redirected to the landing page. It should now look like this: 
+
+![User landing](images/userlanding.png)
+
+Notice that there are new components on the navbar. From left to right, the first component allows you to view your profile, the second component allows you to view your dashboard, and the third allows you to view a dropdown menu with other features.
+
+
+![navbar components](images/rightside.png)
+
+
+Your profile shows your personal information. This includes name, description, interests, location (for companies) or graduation year (for students), interests, and contact information. For companies, it also displays a rating.
+
+
+![profile information](images/profileinfo.png)
+
+The dashboard shows different information depending on your user type. Students can view a collection of companies and companies can view a collection of students. From the dashboard, student and company users can click on the "View Profile" button to be redirected to a profile.
+
+![dashboard](images/companydash.png)
+
+Student users are able to rate companies either on their dashboard or on the company's profile page
+
+![rating](images/rating.png)
+
+Admin users can delete profiles and view profiles.
+
+![admin dashboard](images/admindash.png)
+
+The third component on the dashboard shows a dropdown menu. Currently, only the Edit Profile and sign out feature works. 
+
+![dropdown menu](images/dropdown.png)
+
+If you are a company you can edit your company name, location, phone number, website, image, description, and interests.  
+
+![Edit profile](images/editprofile.png)
+
+If you are a student, you can edit your name, graduation year, phone number, website, image, description, and interests. 
+After editing your information, don't forget to submit!
+ 
+On the far left of the navigation bar, you can click on our logo to return to the dashboard. 
+
+![profile information](images/returnlanding.png)
+
+When you are done, don't forget to sign out!
+
+# Community Feedback
+
+
    
 # Developer Guide
 First, [install Meteor](https://www.meteor.com/install).
@@ -106,6 +168,28 @@ The application should appear at [http://localhost:3000](http://localhost:3000).
 <h3> A basic example of what a company profile will look like </h3>
 
 * In progress. Mockups have been created for pages and issues have been assigned.
+
+<h2> Milestone 3 </h2>
+
+![sign up page](images/signup.png)
+
+<h3> Register page functional </h3>
+
+![edit page](images/editprofile.png)
+
+<h3>Edit page functional</h3>
+
+![Admin profile](images/admindash.png)
+
+<h3>Admin dashboard functional</h3>
+
+![rating](images/ratingprof.png)
+
+![rating](images/ratingdash.png)
+
+<h3> Implemented rating systems that are shown on company profiles and company cards </h3>
+
+
 
 # About Us
 The team:
