@@ -56,6 +56,7 @@ Your profile shows your personal information. This includes name, description, i
 
 The dashboard shows different information depending on your user type. Students can view a collection of companies and companies can view a collection of students. From the dashboard, student and company users can click on the "View Profile" button to be redirected to a profile.
 
+
 ![dashboard](images/companydash.png)
 
 Student users are able to rate companies either on their dashboard or on the company's profile page
