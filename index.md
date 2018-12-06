@@ -85,6 +85,7 @@ When you are done, don't forget to sign out!
 
 # Community Feedback
 
+Many users found it easy to create an account, edit, and view profiles. Some users ran into bugs but they were able to go back if they encountered one. Users were also able to rate and they enjoyed the application. Some criticisms included having to put a URL to upload an image and not being able to contact companies. Overall, the consensus was good and they enjoyed the design of the site. 
 
    
 # Developer Guide
